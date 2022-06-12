@@ -1,5 +1,5 @@
 {
-  "name": "js",
+  "name": "beyzajs",
   "version": "1.0.0",
   "description": "",
   "main": "jsiInfo.js",
@@ -11,8 +11,5 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/beyzaerkan/js.git"
-  },
-  "publishConfig": {
-    "registry":"https://npm.pkg.github.com"
   }
 }
