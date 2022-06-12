@@ -10,7 +10,9 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/beyzaerkan/js.git"
+    "url": "git://github.com/beyzaerkan/js.git"
+  },
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com"
   }
-
 }
